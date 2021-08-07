@@ -1,6 +1,14 @@
- <div>
+## Bem vindo ao meu perfil! 👋🏽
+💻 Sou Desenvolvedor Back End na Apptime <br>
+📚 Estudante de Engenharia mecatrônica cursando o 6º semestre. <br>
+✏  Entusiasta de Design na criação de logos, identidades visuais, páginas Web e aplicativos <br>
+🎸 Guitarrista  <br>
+❤  Apaixonado por tecnologia, inovação, carros e músicas
+
+
+<div>
   <a href="https://github.com/leandrolls">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leandrolls&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+  <!---<img height="160em" src="https://github-readme-stats.vercel.app/api?username=leandrolls&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>--->
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrolls&layout=compact&langs_count=7&theme=graywhite"/>
 </div>
 <div style="display: inline_block"><br>
