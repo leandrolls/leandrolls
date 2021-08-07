@@ -3,7 +3,7 @@
 📚 Estudante de Engenharia mecatrônica cursando o 6º semestre. <br>
 ✏  Entusiasta de Design na criação de logos, identidades visuais, páginas Web e aplicativos <br>
 🎸 Guitarrista  <br>
-❤  Apaixonado por tecnologia, inovação, carros e músicas
+❤  Apaixonado por tecnologia, inovação, carros e música
 
 
 <div>
