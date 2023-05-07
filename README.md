@@ -1,10 +1,8 @@
-## Bem vindo ao meu perfil! 👋🏽
-💻 Sou Desenvolvedor de Software. <br>
-📚 Estudante de Engenharia mecatrônica cursando o 8º semestre. <br>
-✏  Designer. <br>
-🎸 Guitarrista.  <br>
-❤  Apaixonado por tecnologia, inovação, carros e música.
-
+## Welcome to my Github! 👋🏽
+💻 I'm software developer <br>
+📚 Coursing mechatronic engineering <br>
+🎸 Guitarist.  <br>
+❤  Fond of tecnology, innovation, startups, cars and music
 
 <div>
   <a href="https://github.com/leandrolls">
