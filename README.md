@@ -1,6 +1,5 @@
 ## Welcome to my Github! 👋🏽
 💻 I'm software developer <br>
-📚 Coursing mechatronic engineering <br>
 🎸 Guitarist.  <br>
 ❤  Fond of tecnology, innovation, startups, cars and music
 
